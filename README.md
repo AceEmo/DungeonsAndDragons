@@ -6,7 +6,7 @@ This is a role-playing game (RPG) where players can choose their character's rac
 
 ## Project Overview
 
-For detailed information about the project, including its structure, design, and implementation, please refer to the [ReadMeEnglish.pdf](ReadMeEnglish.pdf) file in this repository.
+For detailed information about the project, including its structure, design, and implementation, please refer to the [ReadMeEnglish.pdf](https://github.com/AceEmo/DungeonsAndDragons/blob/main/Dungeons%26Dragons(RPG-Game)/ReadMeEnglish.pdf) file in this repository.
 
 ## Features
 
