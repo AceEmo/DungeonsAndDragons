@@ -19,6 +19,10 @@ For detailed information about the project, including its structure, design, and
 
 To get started, clone this repository and explore the source files. The game is implemented in C++ with `.cpp` and `.hpp` files.
 
+## Unit Testing
+
+This project uses **Catch2** for unit testing. Catch2 is a powerful and flexible framework for C++ that allows you to easily write tests to ensure your code works as expected. You can find the test cases in the relevant `.cpp` files.
+
 ---
 
 Feel free to contribute, suggest improvements, or report any issues!
