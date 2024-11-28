@@ -335,6 +335,7 @@ bool Maze::isItemAdable(Character *player, Item *item)
             std::cout << "\033[0m";
         }
     }
+    return false;
 }
 
 int Maze::randomIndex() const
